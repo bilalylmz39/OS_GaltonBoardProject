@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/Singleton_jar</output-path>
     <root id="archive" name="Singleton.jar">
       <element id="module-output" name="Singleton" />
-      <element id="extracted-dir" path="$USER_HOME$/Downloads/args4j-2.33.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

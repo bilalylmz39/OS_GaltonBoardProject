@@ -10,7 +10,7 @@
 
 
     <build>
-        <finalName>GaltonBoard</finalName>
+        <finalName>GaltonBoardTest</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
